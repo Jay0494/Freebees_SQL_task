@@ -1,8 +1,10 @@
 ## Freebees SQL project 
-Certain tasks to were delivered on the whatsapp group by the admin. A set of questions  where given to answer, but in order to answer these questions we have to access the database retrieve the data clean it and attend to the various tasks. 
+A set of questions  where provided to answer using SQL, In order to answer these questions we have to access the database retrieve the data clean it and attend to the various tasks. 
 
 
 Tools used : SQL 
+
+
 ![Freebee no 1](https://github.com/user-attachments/assets/8125eaaa-9d79-410b-b8ca-2b49c9725e6f)
 **Notes**
 
