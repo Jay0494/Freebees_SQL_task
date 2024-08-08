@@ -1,5 +1,5 @@
 ## Freebees SQL project 
-A set of questions  where provided to answer using SQL, In order to answer these questions we have to access the database retrieve the data, clean it, and attend to the various tasks. 
+A set of questions  where provided to answer using SQL, In order to answer these questions we have to access the database, retrieve the data, clean it, and attend to the various tasks. 
 
 
 Tools used : SQL 
