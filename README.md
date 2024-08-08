@@ -25,7 +25,8 @@ Tools used : SQL
 
 
 
-![Freebee no 7](https://github.com/user-attachments/assets/dfdab175-8bde-42ed-9494-498a2045b9ef)
+![Freebee no 7](https://github.com/user-attachments/assets/8de7f745-7fc3-4946-b431-35d8acce06e9)
+
 
 
 
