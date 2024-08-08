@@ -6,10 +6,11 @@ Tools used : SQL
 
 
 ![Freebee no 1](https://github.com/user-attachments/assets/8125eaaa-9d79-410b-b8ca-2b49c9725e6f)
-**Notes**
+
+
 
 ![Freebee no 2](https://github.com/user-attachments/assets/c98a73a5-4018-4cd3-b6f3-6590aa04ed99)
-**Notes**
+
 
 ![freebee no 3](https://github.com/user-attachments/assets/40fe5a52-d1bd-47a2-beda-9c22bfe2867a)
 
@@ -30,7 +31,6 @@ Tools used : SQL
 
 
 
-
 ![Freebee no 10](https://github.com/user-attachments/assets/5153c807-c683-4e44-aba6-657f58e62c94)
 
 
@@ -40,16 +40,12 @@ Tools used : SQL
 
 
 
-
 ![Freebee no 14](https://github.com/user-attachments/assets/8cdfd504-8f51-4a06-8249-233eadfa0f54)
 
 
 
 
-
 ![Freebee no 16 ](https://github.com/user-attachments/assets/9226d6c8-9830-4bbe-ad09-2340c7d7274d)
-
-
 
 
 
